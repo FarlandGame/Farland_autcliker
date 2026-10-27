@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Bir tık geliyor, peşinden bütün ekip! Faren takviye çağırmış gibi. 🖱️✨
+
+[Kabir ile tanışın: hikâyem, yaratıcı başlangıcım ve Japonya planlarım](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.tr.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Her fiziksel tıklamada birbirinden bağımsız, bir saniyelik ek tıklama serisi başlatan; sol ve sağ tuş için ayrı kontrollere ve Farsça arayüze sahip bir Windows otomatik tıklama uygulaması.

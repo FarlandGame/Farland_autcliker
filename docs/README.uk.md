@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Один клік — і слідом ціла команда. Схоже, твоя миша викликала підкріплення. 🖱️✨
+
+[Знайомтеся з Кабіром: моя історія, творчі початки та плани щодо Японії](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.uk.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Автоклікер для Windows, у якому кожен фізичний клік запускає незалежну односекундну серію додаткових кліків, з окремими налаштуваннями лівої та правої кнопок і перським інтерфейсом.

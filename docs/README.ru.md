@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Один клик заходит, а за ним целая компания. Похоже, твоя мышь вызвала подкрепление. 🖱️✨
+
+[Знакомьтесь с Кабиром: моя история, творческие истоки и планы на Японию](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ru.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Автокликер для Windows, в котором каждый физический щелчок запускает независимую односекундную серию дополнительных щелчков. Есть отдельное управление левой и правой кнопками и интерфейс на персидском языке.

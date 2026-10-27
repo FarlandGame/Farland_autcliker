@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Wchodzi jeden klik, a za nim cała ekipa. Twoja mysz wezwała posiłki. 🖱️✨
+
+[Poznaj Kabira: moja historia, twórcze początki i plany związane z Japonią](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.pl.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Autoclicker dla systemu Windows, w którym każde fizyczne kliknięcie rozpoczyna niezależną, jednosekundową serię dodatkowych kliknięć, z osobnymi ustawieniami lewego i prawego przycisku oraz interfejsem w języku perskim.

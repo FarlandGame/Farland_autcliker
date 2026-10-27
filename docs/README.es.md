@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Llega un clic y detrás viene toda la pandilla. Tu ratón ha pedido refuerzos. 🖱️✨
+
+[Conoce a Kabir: mi historia, mis comienzos creativos y mis planes para Japón](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.es.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Un autoclicker para Windows en el que cada clic físico inicia una ráfaga independiente de clics adicionales durante un segundo, con controles separados para los botones izquierdo y derecho y una interfaz en persa.

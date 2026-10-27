@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > एक क्लिक आया, पीछे पूरी क्लिक टोली! लगता है आपके माउस ने मदद बुला ली है। 🖱️✨
+
+[मिलिए Kabir से: मेरी कहानी, रचनात्मक शुरुआत और जापान की योजनाएँ](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.hi.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Windows के लिए एक ऑटो क्लिकर, जिसमें माउस का हर वास्तविक क्लिक अतिरिक्त क्लिकों का एक स्वतंत्र, एक सेकंड लंबा क्रम शुरू करता है। बाएँ और दाएँ बटन के लिए अलग नियंत्रण हैं और ऐप का इंटरफ़ेस फ़ारसी में है।

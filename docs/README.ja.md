@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > ワンクリックの後ろから、クリックの応援団がぞろぞろ。マウスが助っ人を呼んだみたいです。🖱️✨
+
+[Kabir の歩み：創作の始まりと日本でかなえたいこと](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ja.md)
 <!-- PLAYFUL_INTRO_END -->
 
 実際のクリックごとに独立した 1 秒間の追加クリック処理を開始する Windows 用オートクリッカー。左右の個別設定とペルシャ語の画面を備えています。

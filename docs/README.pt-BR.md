@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Chega um clique e a turma toda vem atrás. Seu mouse chamou reforços. 🖱️✨
+
+[Conheça Kabir: minha história, meus primeiros passos criativos e meus planos para o Japão](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.pt-BR.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Um autoclicker para Windows em que cada clique físico inicia uma sequência independente de cliques adicionais durante um segundo, com controles separados para os botões esquerdo e direito e uma interface em persa.

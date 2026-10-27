@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Eén klik komt binnen en een hele groep volgt. Je muis heeft versterking opgeroepen. 🖱️✨
+
+[Maak kennis met Kabir: mijn verhaal, creatieve begin en plannen voor Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.nl.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Een autoclicker voor Windows waarbij elke fysieke klik een onafhankelijke reeks extra klikken van één seconde start, met afzonderlijke instellingen voor links en rechts en een Perzische interface.

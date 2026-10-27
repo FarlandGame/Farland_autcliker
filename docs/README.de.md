@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Ein Klick kommt rein, eine ganze Truppe folgt. Deine Maus hat Verstärkung angefordert. 🖱️✨
+
+[Lerne Kabir kennen: meine Geschichte, kreativen Anfänge und Pläne für Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.de.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Ein Auto-Clicker für Windows, bei dem jeder physische Klick eine unabhängige, einsekündige Folge zusätzlicher Klicks auslöst, mit getrennten Einstellungen für links und rechts und einer persischen Benutzeroberfläche.

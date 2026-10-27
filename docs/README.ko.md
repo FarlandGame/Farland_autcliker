@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > 클릭 한 번 했더니 클릭 응원단이 우르르! 마우스가 지원군을 부른 모양이에요. 🖱️✨
+
+[Kabir를 소개합니다: 나의 이야기, 창작의 시작과 일본에서의 계획](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ko.md)
 <!-- PLAYFUL_INTRO_END -->
 
 실제로 마우스를 클릭할 때마다 서로 독립적인 1초짜리 추가 클릭 묶음을 시작하는 Windows 자동 클릭 프로그램입니다. 왼쪽과 오른쪽 버튼을 따로 제어할 수 있으며, 프로그램 인터페이스는 페르시아어입니다.

@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Un clic arrive, toute la bande suit. Votre souris a appelé du renfort. 🖱️✨
+
+[Rencontrer Kabir : mon histoire, mes débuts créatifs et mes projets pour le Japon](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.fr.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Un autoclicker pour Windows où chaque clic physique déclenche une rafale indépendante de clics supplémentaires pendant une seconde, avec des réglages distincts pour les boutons gauche et droit et une interface en persan.

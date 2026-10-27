@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > یک کلیک وارد می‌شود، یک عالمه کلیک دنبالش! انگار ماوست نیروی کمکی استخدام کرده. 🖱️✨
+
+[آشنایی با کبیر: داستان من، شروع کار و برنامه‌هایم برای ژاپن](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.fa.md)
 <!-- PLAYFUL_INTRO_END -->
 
 اتوکلیکر ویندوزی که با هر کلیک واقعی، یک نوبت مستقل از کلیک‌های اضافه را در طول یک ثانیه آغاز می‌کند؛ با تنظیم جداگانهٔ چپ و راست و رابط فارسی.

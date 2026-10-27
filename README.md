@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > One click walks in; a whole crowd follows. Your mouse has recruited backup. 🖱️✨
+
+[Meet Kabir: my story, creative beginnings and plans for Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.en.md)
 <!-- PLAYFUL_INTRO_END -->
 
 A Windows auto clicker where each physical click starts an independent one-second burst of additional clicks, with separate left/right controls and a Persian interface.

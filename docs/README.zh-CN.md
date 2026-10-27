@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > 一个点击刚进门，一大群点击就跟上来了。你的鼠标这是叫了援兵啊！🖱️✨
+
+[认识 Kabir：我的故事、创作起点与日本计划](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.zh-CN.md)
 <!-- PLAYFUL_INTRO_END -->
 
 一款 Windows 自动点击器：每次实际按下鼠标按钮，都会启动一组独立、持续一秒的额外点击。左右键可分别控制，程序界面为波斯语。

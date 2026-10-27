@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > 一個點擊剛進門，一大群點擊就跟上來了。你的滑鼠這是叫了援軍啊！🖱️✨
+
+[認識 Kabir：我的故事、創作起點與日本計畫](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.zh-TW.md)
 <!-- PLAYFUL_INTRO_END -->
 
 一款 Windows 自動點擊器：每次實際按下滑鼠按鈕，都會啟動一組獨立、持續一秒的額外點擊。左右鍵可分別控制，程式介面為波斯語。

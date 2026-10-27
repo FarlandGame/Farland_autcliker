@@ -6,6 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Satu klik datang, serombongan klik menyusul. Mouse-mu rupanya memanggil bala bantuan! 🖱️✨
+
+[Kenalan dengan Kabir: kisahku, awal perjalanan kreatif, dan rencana ke Jepang](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.id.md)
 <!-- PLAYFUL_INTRO_END -->
 
 Pengklik otomatis untuk Windows yang memulai rangkaian klik tambahan secara mandiri selama satu detik setiap kali ada klik fisik, dengan kontrol tombol kiri/kanan terpisah dan antarmuka berbahasa Persia.
