@@ -2,6 +2,12 @@
 
 [English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Türkçe](README.tr.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [हिन्दी](README.hi.md) | [Bahasa Indonesia](README.id.md)
 
+<!-- PLAYFUL_INTRO_START -->
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
+
+> 一個點擊剛進門，一大群點擊就跟上來了。你的滑鼠這是叫了援軍啊！🖱️✨
+<!-- PLAYFUL_INTRO_END -->
+
 一款 Windows 自動點擊器：每次實際按下滑鼠按鈕，都會啟動一組獨立、持續一秒的額外點擊。左右鍵可分別控制，程式介面為波斯語。
 
 **由 Bardiya Alizadeh（Kabir）創作，藝名 Farland_game。**

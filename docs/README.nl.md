@@ -2,6 +2,12 @@
 
 [English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Türkçe](README.tr.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [हिन्दी](README.hi.md) | [Bahasa Indonesia](README.id.md)
 
+<!-- PLAYFUL_INTRO_START -->
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
+
+> Eén klik komt binnen en een hele groep volgt. Je muis heeft versterking opgeroepen. 🖱️✨
+<!-- PLAYFUL_INTRO_END -->
+
 Een autoclicker voor Windows waarbij elke fysieke klik een onafhankelijke reeks extra klikken van één seconde start, met afzonderlijke instellingen voor links en rechts en een Perzische interface.
 
 **Gemaakt door Bardiya Alizadeh (Kabir), bekend als Farland_game.**

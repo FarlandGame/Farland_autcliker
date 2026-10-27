@@ -2,6 +2,12 @@
 
 [English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Türkçe](README.tr.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [हिन्दी](README.hi.md) | [Bahasa Indonesia](README.id.md)
 
+<!-- PLAYFUL_INTRO_START -->
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
+
+> یک کلیک وارد می‌شود، یک عالمه کلیک دنبالش! انگار ماوست نیروی کمکی استخدام کرده. 🖱️✨
+<!-- PLAYFUL_INTRO_END -->
+
 اتوکلیکر ویندوزی که با هر کلیک واقعی، یک نوبت مستقل از کلیک‌های اضافه را در طول یک ثانیه آغاز می‌کند؛ با تنظیم جداگانهٔ چپ و راست و رابط فارسی.
 
 **ساختهٔ بردیا علیزاده، ملقب به کبیر، با نام هنری Farland_game**

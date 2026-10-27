@@ -2,6 +2,12 @@
 
 [English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Türkçe](README.tr.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [हिन्दी](README.hi.md) | [Bahasa Indonesia](README.id.md)
 
+<!-- PLAYFUL_INTRO_START -->
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
+
+> 클릭 한 번 했더니 클릭 응원단이 우르르! 마우스가 지원군을 부른 모양이에요. 🖱️✨
+<!-- PLAYFUL_INTRO_END -->
+
 실제로 마우스를 클릭할 때마다 서로 독립적인 1초짜리 추가 클릭 묶음을 시작하는 Windows 자동 클릭 프로그램입니다. 왼쪽과 오른쪽 버튼을 따로 제어할 수 있으며, 프로그램 인터페이스는 페르시아어입니다.
 
 **Farland_game이라는 이름으로 활동하는 Bardiya Alizadeh(Kabir)가 만들었습니다.**

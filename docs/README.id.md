@@ -2,6 +2,12 @@
 
 [English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Türkçe](README.tr.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [हिन्दी](README.hi.md) | [Bahasa Indonesia](README.id.md)
 
+<!-- PLAYFUL_INTRO_START -->
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
+
+> Satu klik datang, serombongan klik menyusul. Mouse-mu rupanya memanggil bala bantuan! 🖱️✨
+<!-- PLAYFUL_INTRO_END -->
+
 Pengklik otomatis untuk Windows yang memulai rangkaian klik tambahan secara mandiri selama satu detik setiap kali ada klik fisik, dengan kontrol tombol kiri/kanan terpisah dan antarmuka berbahasa Persia.
 
 **Dibuat oleh Bardiya Alizadeh (Kabir), yang dikenal sebagai Farland_game.**

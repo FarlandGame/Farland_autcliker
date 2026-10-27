@@ -2,6 +2,12 @@
 
 [English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Türkçe](README.tr.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [हिन्दी](README.hi.md) | [Bahasa Indonesia](README.id.md)
 
+<!-- PLAYFUL_INTRO_START -->
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
+
+> Chega um clique e a turma toda vem atrás. Seu mouse chamou reforços. 🖱️✨
+<!-- PLAYFUL_INTRO_END -->
+
 Um autoclicker para Windows em que cada clique físico inicia uma sequência independente de cliques adicionais durante um segundo, com controles separados para os botões esquerdo e direito e uma interface em persa.
 
 **Criado por Bardiya Alizadeh (Kabir), conhecido como Farland_game.**
