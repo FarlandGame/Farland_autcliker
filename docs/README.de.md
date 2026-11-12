@@ -1,5 +1,11 @@
 # Farland_autcliker
 
+<!-- PROJECT_VISUAL_HEADER -->
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/showcase-card.svg" width="600" alt="autoclicker"><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/showcase-sticker.svg" width="90" alt="autoclicker sticker"></p>
+
+[← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
+<!-- PROJECT_VISUAL_HEADER_END -->
+
 [English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Türkçe](README.tr.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [हिन्दी](README.hi.md) | [Bahasa Indonesia](README.id.md)
 
 <!-- PLAYFUL_INTRO_START -->
