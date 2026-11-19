@@ -1,7 +1,7 @@
 # Farland_autcliker
 
 <!-- PROJECT_VISUAL_HEADER -->
-<p><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/showcase-card.svg" width="600" alt="autoclicker"><img src="https://raw.githubusercontent.com/FarlandGame/Farland_autcliker/main/assets/showcase-sticker.svg" width="90" alt="autoclicker sticker"></p>
+<p><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/ru/autoclicker.svg" width="600" alt="autoclicker"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/ru/autoclicker-sticker.svg" width="90" alt="autoclicker sticker"></p>
 
 [← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
 <!-- PROJECT_VISUAL_HEADER_END -->
